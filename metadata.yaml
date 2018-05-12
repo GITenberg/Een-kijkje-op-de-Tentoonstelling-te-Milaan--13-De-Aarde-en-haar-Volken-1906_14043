@@ -1,0 +1,25 @@
+_repo: Een-kijkje-op-de-Tentoonstelling-te-Milaan--13-De-Aarde-en-haar-Volken-1906_14043
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ketner, Ph. J.
+    gutenberg_agent_id: '5343'
+    url: http://www.gutenberg.org/2009/agents/5343
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14043'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Exposition internationale de Milan (1906)'
+title: "Een kijkje op de Tentoonstelling te Milaan\r\nDe Aarde en haar Volken, 1906"
+url: http://www.gutenberg.org/ebooks/14043
